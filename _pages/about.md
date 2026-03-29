@@ -9,30 +9,42 @@ redirect_from:
 
 ---
 
+---
+
 # Haolin Guo (郭皓林)
 
-I am a software engineer at Meta, where I architect AI-driven systems to empower businesses worldwide. My journey began at Columbia University, where I earned a B.A. in Computer Science with a focus on applied machine learning and distributed systems. This foundation led me to explore how AI can transform industries—from manufacturing defect detection to material discovery—through innovative algorithms and scalable infrastructure.
+I am a software engineer at Meta, architecting AI systems to empower global businesses. My work bridges cutting-edge AI research with scalable industry applications, from defect detection in manufacturing to material discovery.
 
-At Meta, I work on the Applied AI & CRM Systems team, developing generative AI features and distributed services that enhance digital economies for millions of enterprises. My research, published in journals like Neural Computing and Applications and Environmental Science & Technology, demonstrates AI's potential in real-world applications, such as semantic segmentation for welding defects and machine-learning-assisted polymer discovery.
+## Education
+- **Columbia University**, New York, NY  
+  B.A. in Computer Science, Dec. 2025 (GPA 3.8/4.0)  
+  Focus: Applied Machine Learning, Distributed Systems, Operations Research
 
-Beyond my professional work, I contribute to open-source projects like Omni One, a high-performance data synthesis framework adopted across finance, real estate, and manufacturing. As a member of the Technical Committee on Machine Learning at the Chinese Association for Artificial Intelligence (CAAI), I help shape global ML standards.
+## Research
+My research applies AI to real-world industries, developing algorithms for practical impact:
+- Semantic segmentation for welding-defect detection (Neural Computing and Applications, cited 21 times)
+- Machine-learning-assisted material discovery of pyridine-based polymers (Environmental Science & Technology, cited 20 times)
 
-I am passionate about bridging cutting-edge AI research with practical, industry-scale solutions to drive technological advancement and economic vitality.
+## Industry Experience
+- **Meta Platforms, Inc.**, Menlo Park, CA  
+  Software Engineer (Applied AI & CRM Systems), Feb. 2026 – Present  
+  Architect generative AI features for global CRM, engineering distributed services in C++ and GraphQL.
 
-## Snapshot
-- Current: Software Engineer (Applied AI & CRM Systems), Meta Platforms, Inc. — Menlo Park, CA
-- Education: B.A. in Computer Science, Columbia University, Dec. 2025 (GPA 3.8/4.0)
-- Focus: Applied machine learning, distributed systems, material informatics, scalable data platforms
+- **Meta Platforms, Inc.**, Menlo Park, CA  
+  Software Engineer Intern (Enterprise Infrastructure), May 2025 – Aug. 2025  
+  Built lead-engagement infrastructure for Meta Business Suite using Apache Hive.
 
-## Core strengths
-- Rapidly ship production-grade AI systems for enterprise scale
-- Cross-domain product engineering with C++, Python, Go, GraphQL, and cloud-native tooling
-- Deep technical leadership through open-source design and standards advocacy
+- **Meta Platforms, Inc.**, Menlo Park, CA  
+  Software Engineer Intern (AI Systems), May 2024 – Aug. 2024  
+  Integrated Llama 3 into Messenger, scaling to 100k+ users with SQLite and LangChain.
 
-## Choose your next step
-- [View CV](/cv/) (NIW-focused academic and professional profile)
-- [Publications](/publications/)
-- [Research Resources](/markdown/)
+## Open Source
+- **Omni One**: High-performance data synthesis framework (50+ stars, 30+ forks)  
+  Adopted across finance, real estate, and manufacturing for transforming raw data into queryable intelligence.
+
+## Leadership
+- Member, Technical Committee on Machine Learning, Chinese Association for Artificial Intelligence (CAAI)  
+  Contribute to global ML standards.
 
 ---
 
