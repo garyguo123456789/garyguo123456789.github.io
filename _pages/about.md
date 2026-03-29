@@ -7,9 +7,17 @@ redirect_from:
   - /about.html
 ---
 
+---
+
 # Haolin Guo (郭皓林)
 
-I am a software engineer specializing in AI systems, distributed infrastructure, and generative intelligence. Currently on the Applied AI & CRM Systems team at Meta, I work on cross-enterprise AI infrastructure and multi-tenant AI services.
+I am a software engineer at Meta, where I architect AI-driven systems to empower businesses worldwide. My journey began at Columbia University, where I earned a B.A. in Computer Science with a focus on applied machine learning and distributed systems. This foundation led me to explore how AI can transform industries—from manufacturing defect detection to material discovery—through innovative algorithms and scalable infrastructure.
+
+At Meta, I work on the Applied AI & CRM Systems team, developing generative AI features and distributed services that enhance digital economies for millions of enterprises. My research, published in journals like Neural Computing and Applications and Environmental Science & Technology, demonstrates AI's potential in real-world applications, such as semantic segmentation for welding defects and machine-learning-assisted polymer discovery.
+
+Beyond my professional work, I contribute to open-source projects like Omni One, a high-performance data synthesis framework adopted across finance, real estate, and manufacturing. As a member of the Technical Committee on Machine Learning at the Chinese Association for Artificial Intelligence (CAAI), I help shape global ML standards.
+
+I am passionate about bridging cutting-edge AI research with practical, industry-scale solutions to drive technological advancement and economic vitality.
 
 ## Snapshot
 - Current: Software Engineer (Applied AI & CRM Systems), Meta Platforms, Inc. — Menlo Park, CA
@@ -24,8 +32,7 @@ I am a software engineer specializing in AI systems, distributed infrastructure,
 ## Choose your next step
 - [View CV](/cv/) (NIW-focused academic and professional profile)
 - [Publications](/publications/)
-- [Talks](/talks/)
-- [Teaching](/teaching/)
+- [Research Resources](/markdown/)
 
 ---
 
