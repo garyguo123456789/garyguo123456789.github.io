@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-# Haolin Guo (郭皓林)
+# Haolin Guo
 
 I am a software engineer at Meta, architecting AI systems to empower global businesses. My work bridges cutting-edge AI research with scalable industry applications, from defect detection in manufacturing to material discovery.
 
