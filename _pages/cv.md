@@ -53,15 +53,7 @@ redirect_from:
 * Systems/Full-stack: C++, Python, Go, Java, Swift, Kotlin, PHP, SQL, GraphQL, React, Node.js, LangChain.
 * Infrastructure: Docker, Kubernetes, AWS, Apache Hive, gRPC, Distributed Systems, RPC.
 
-## Additional Publications, Talks, Teaching
+## Publications
 <ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
-
-<ul>{% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>

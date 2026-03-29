@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Honglin Guo (郭皓林)
+# Haolin Guo (郭皓林)
 
 I am a software engineer specializing in AI systems, distributed infrastructure, and generative intelligence. Currently on the Applied AI & CRM Systems team at Meta, I work on cross-enterprise AI infrastructure and multi-tenant AI services.
 
