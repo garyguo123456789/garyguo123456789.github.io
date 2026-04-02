@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Haolin Guo",
+    "email": "haolin.guo@columbia.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://garyguo123456789.github.io",
+    "summary": "PhD student in Computer Science at Columbia University.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "New York",
       "countryCode": "US",
-      "region": ""
+      "region": "NY"
     },
     "profiles": [
       {
@@ -25,37 +25,19 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "garyguo123456789",
+        "url": "https://github.com/garyguo123456789"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Columbia University",
+      "area": "Ph.D in Computer Science",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "",
       "gpa": null,
       "courses": []
     }
@@ -66,32 +48,60 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Machine-Learning-Assisted Material Discovery of Pyridine-Based Polymers for Efficient Removal of ReO4–",
+      "publisher": "Environmental Science & Technology",
+      "releaseDate": "2024-01-01",
+      "website": "",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Semantic segmentation supervised deep-learning algorithm for welding-defect detection of new energy batteries",
+      "publisher": "Neural Computing and Applications",
+      "releaseDate": "2022-01-01",
+      "website": "",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Application of machine learning in cigarette quality evaluation method",
+      "publisher": "Journal of Physics: Conference Series",
+      "releaseDate": "2020-01-01",
+      "website": "",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Automatic English Translation using Artificial Recurrent Neural Network with Machine Translation",
+      "publisher": "2024 International Conference on Distributed Systems, Computer Networks and …",
+      "releaseDate": "2024-01-01",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "On pre-reflow PCB defect detection based on object detection and template matching",
+      "publisher": "International Conference on Internet of Things, Communication and …",
+      "releaseDate": "2022-01-01",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Optimal Topology Reconfiguration for Regional Electricity-Heating Integrated Energy Systems: An Event-Driven Approach",
+      "publisher": "Energy",
+      "releaseDate": "2026-01-01",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Decision Tree with Light Gradient Boosting Algorithm for University Teacher Performance Evaluation",
+      "publisher": "2025 3rd International Conference on Integrated Circuits and Communication …",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Physics-Informed Graph Neural Network-Based Optimal Energy Flow for Integrated Electricity-Heat Systems Considering Thermal Dynamics",
+      "publisher": "SSRN",
+      "releaseDate": "2024-01-01",
+      "website": "",
+      "summary": ""
     }
   ],
   "presentations": [
