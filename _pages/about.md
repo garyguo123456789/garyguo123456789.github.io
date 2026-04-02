@@ -15,21 +15,17 @@ redirect_from:
 
 ---
 
+---
+
+---
+
 # Haolin Guo
 
-I'm a software engineer at Meta Platforms, where I architect AI systems that bridge academic research with real-world industry applications. My journey combines rigorous computer science training at Columbia University with hands-on experience building scalable AI infrastructure, from defect detection algorithms to material discovery frameworks.
+I'm a software engineer at Meta Platforms, bridging AI research with scalable industry solutions. Trained in computer science at Columbia University, I develop algorithms that transform complex problems into actionable insights across manufacturing, energy systems, and beyond.
 
-## Research Focus
+My research focuses on practical AI applications: from computer vision for defect detection in manufacturing (welding, PCBs) and material discovery for environmental challenges, to physics-informed neural networks for energy optimization and machine learning for quality evaluation. This work, published in leading journals, demonstrates AI's potential to drive innovation in traditional sectors.
 
-My research leverages AI to solve practical challenges across domains. I develop algorithms for semantic segmentation in manufacturing quality control and machine learning approaches for material science, enabling faster innovation through data-driven insights. This work has been published in top journals and cited internationally, demonstrating AI's potential to transform traditional industries.
-
-## Professional Work
-
-At Meta, I engineer distributed AI systems that serve millions of users globally. From integrating large language models into messaging platforms to building CRM infrastructure for enterprise clients, my work focuses on making AI accessible and performant at scale. I collaborate across teams to deploy cutting-edge technologies while ensuring reliability and user impact.
-
-## Open-Source Contributions & Leadership
-
-I maintain Omni One, a high-performance data synthesis framework that accelerates AI model training through parallel processing and intelligent caching—adopted across finance, real estate, and manufacturing sectors. As a member of the Chinese Association for Artificial Intelligence's Machine Learning Technical Committee, I contribute to global standards that shape the future of AI development.
+At Meta, I engineer distributed AI systems serving millions, from integrating LLMs into messaging platforms to building enterprise CRM infrastructure. I also contribute to the AI community through Omni One—a high-performance data synthesis framework—and leadership in global ML standards.
 
 ---
 
