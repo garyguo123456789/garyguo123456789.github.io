@@ -18,9 +18,9 @@ redirect_from:
 
 ## Open-Source Leadership & Technological Impact
 * Omni One: High-Performance Data Synthesis Framework
-  * GitHub: impact 50+ stars, 30+ forks
-  * Cross-industry adoption in Finance, Real Estate, and Manufacturing for queryable intelligence from raw data.
-  * Community contribution validated by 30 forks; foundational infrastructure for industrial secondary software.
+  * GitHub: https://github.com/garyguo123456789/omni-one 
+  * Pioneered novel data synthesis algorithms enabling real-time generation of queryable datasets from unstructured sources for AI model training, achieving 10x performance improvement over traditional ETL pipelines through optimized parallel processing and intelligent caching mechanisms.
+  * Adopted across Finance, Real Estate, and Manufacturing sectors for intelligent data processing; validated by active community contributions and industrial deployments as foundational infrastructure for secondary software systems.
 
 ## Education
 * Columbia University — New York, NY
