@@ -25,19 +25,18 @@ redirect_from:
 ## Education
 * Columbia University — New York, NY
   * B.A. in Computer Science, Dec. 2025
-  * GPA: 3.8 / 4.0
   * Core focus: Applied Machine Learning, Distributed Systems, Operations Research.
 
 ## Professional Experience
 * Meta Platforms, Inc. — Menlo Park, CA
   * Software Engineer (Applied AI & CRM Systems), Feb. 2026 – Present
     * Architecting Generative AI features in global CRM to enhance digital economic vitality across millions of enterprises.
-    * Engineering distributed backend services in C++ and GraphQL for high-concurrency AI inference.
+    * Engineering distributed backend services  high-concurrency AI inference.
 
 * Meta Platforms, Inc. — Menlo Park, CA
   * Software Engineer Intern (Enterprise Infrastructure), May 2025 – Aug. 2025
     * Built lead-engagement infrastructure for Meta Business Suite; enabled real-time commerce for global SMBs.
-    * Optimized analytics with Apache Hive for enterprise-scale mobile systems.
+    * Optimized analytics for enterprise-scale mobile systems.
 
 * Meta Platforms, Inc. — Menlo Park, CA
   * Software Engineer Intern (AI Systems), May 2024 – Aug. 2024
