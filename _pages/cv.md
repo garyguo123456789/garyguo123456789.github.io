@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Curriculum Vitae (NIW-focused)
+# Curriculum Vitae
 
 ## Professional Leadership & Honors
 * Technical Committee on Machine Learning, Chinese Association for Artificial Intelligence (CAAI)
@@ -27,10 +27,6 @@ redirect_from:
   * B.A. in Computer Science, Dec. 2025
   * GPA: 3.8 / 4.0
   * Core focus: Applied Machine Learning, Distributed Systems, Operations Research.
-
-## Peer-Reviewed Research
-* Yang, Y., ..., Guo, H., et al. (2022). "Semantic segmentation supervised deep-learning algorithm for welding-defect detection." Neural Computing and Applications. [Cited by 21]
-* Yuan, L., Guo, H., et al. (2024). "Machine-Learning-Assisted Material Discovery of Pyridine-Based Polymers." Environmental Science & Technology. [Cited by 20]
 
 ## Professional Experience
 * Meta Platforms, Inc. — Menlo Park, CA
