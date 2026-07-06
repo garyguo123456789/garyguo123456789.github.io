@@ -153,17 +153,31 @@
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
+      "name": "Omni: A Data Synthesis Platform for LLMs",
+      "event": "Data Science Institute, Columbia University",
+      "date": "2025-01-01",
+      "location": "New York, NY, USA",
       "description": ""
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Sustainability of Bitcoin Wallets",
+      "event": "Questrom School of Business, Boston University",
+      "date": "2025-01-01",
+      "location": "Boston, MA, USA",
+      "description": ""
+    },
+    {
+      "name": "Empowering Salesforce Ecosystems via Data-Driven AI",
+      "event": "Tuck School of Business, Dartmouth College",
+      "date": "2024-01-01",
+      "location": "Hanover, NH, USA",
+      "description": ""
+    },
+    {
+      "name": "Machine Learning Algorithms in Historical Analysis of South African Apartheid",
+      "event": "Google Developer Club",
+      "date": "2023-01-01",
+      "location": "",
       "description": ""
     }
   ],
