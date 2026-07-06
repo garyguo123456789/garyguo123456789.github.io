@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Haolin Guo",
-    "email": "haolin.guo@columbia.edu",
+    "email": "g.haolin@columbia.edu",
     "phone": "",
     "website": "https://garyguo123456789.github.io",
     "summary": "PhD student in Computer Science at Columbia University.",
@@ -27,6 +27,11 @@
         "network": "GitHub",
         "username": "garyguo123456789",
         "url": "https://github.com/garyguo123456789"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "emery-guo-8a49b9176",
+        "url": "https://www.linkedin.com/in/emery-guo-8a49b9176/"
       }
     ]
   },
