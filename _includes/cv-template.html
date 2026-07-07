@@ -143,19 +143,28 @@
     <h2>Publications</h2>
     <ul class="cv-list">
       {% for publication in cv.publications %}
-      <li class="cv-item">
+      <li class="cv-item publication">
         <div class="cv-item-header">
-          <div class="cv-item-title">{{ publication.name }}</div>
+          <div class="cv-item-title cv-publication-title">
+            {% if publication.website %}
+              <a href="{{ publication.website }}" target="_blank" rel="noopener noreferrer">{{ publication.name }}</a>
+            {% else %}
+              {{ publication.name }}
+            {% endif %}
+          </div>
           <div class="cv-item-date">{{ publication.releaseDate | slice: 0, 4 }}</div>
         </div>
         <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ publication.publisher }}</div>
+          <div class="cv-publication-meta">
+            <span class="cv-publication-venue"><em>{{ publication.publisher }}</em></span>
+            {% if publication.journal %}<span class="cv-publication-journal">&nbsp;&mdash;&nbsp;<em>{{ publication.journal }}</em></span>{% endif %}
+          </div>
           {% if publication.summary %}
           <div class="cv-item-detail">{{ publication.summary }}</div>
           {% endif %}
           {% if publication.website %}
           <div class="cv-item-detail">
-            <a href="{{ publication.website }}" target="_blank">View Publication</a>
+            <a href="{{ publication.website }}" target="_blank" rel="noopener noreferrer">View Publication</a>
           </div>
           {% endif %}
         </div>

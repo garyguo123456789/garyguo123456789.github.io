@@ -184,6 +184,34 @@
   color: var(--global-link-color-hover);
 }
 
+/* Publications specific */
+.cv-publication-title {
+  font-size: 1.18rem;
+  font-weight: 800;
+  color: var(--global-text-color);
+}
+
+.cv-publication-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: baseline;
+}
+
+.cv-publication-venue {
+  color: var(--global-text-color-light);
+  font-size: 0.98rem;
+}
+
+.cv-publication-journal {
+  color: var(--global-text-color-light);
+  font-size: 0.98rem;
+}
+
+.publication {
+  /* subtle visual distinction for publications */
+}
+
 .cv-highlights,
 .cv-skill-list {
   list-style: none;

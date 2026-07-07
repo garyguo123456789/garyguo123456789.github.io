@@ -243,3 +243,31 @@
     }
   }
 }
+
+/* Publication metadata styling for archive lists */
+.publication-meta {
+  margin: 0.35rem 0 0;
+  font-size: $type-size-6;
+  color: var(--global-text-color-light);
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.publication-venue {
+  font-style: italic;
+  color: var(--global-text-color-light);
+}
+
+.publication-year {
+  color: var(--global-text-color-light);
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.publication-authors {
+  display: block;
+  color: var(--global-text-color);
+  font-weight: 600;
+}
