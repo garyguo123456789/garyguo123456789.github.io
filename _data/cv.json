@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Haolin Guo",
+    "label": "AI Systems Engineer | Applied Machine Learning & Distributed Systems",
     "email": "g.haolin@columbia.edu",
-    "phone": "",
     "website": "https://garyguo123456789.github.io",
-    "summary": "PhD student in Computer Science at Columbia University.",
+    "summary": "Software engineer at Meta Platforms building scalable AI systems that connect machine learning research with production products.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -19,11 +19,6 @@
         "url": "https://scholar.google.com/citations?user=U6IoAjQAAAAJ&hl=en"
       },
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
         "username": "garyguo123456789",
         "url": "https://github.com/garyguo123456789"
@@ -35,19 +30,93 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Meta Platforms, Inc.",
+      "position": "Software Engineer (Applied AI & CRM Systems)",
+      "startDate": "2026-02-01",
+      "endDate": "",
+      "summary": "Architecting Generative AI features in global CRM to enhance digital economic vitality across millions of enterprises.",
+      "highlights": [
+        "Engineering distributed backend services for high-concurrency AI inference."
+      ]
+    },
+    {
+      "company": "Meta Platforms, Inc.",
+      "position": "Software Engineer Intern (Enterprise Infrastructure)",
+      "startDate": "2025-05-01",
+      "endDate": "2025-08-01",
+      "summary": "Built lead-engagement infrastructure for Meta Business Suite; enabled real-time commerce for global SMBs.",
+      "highlights": [
+        "Optimized analytics for enterprise-scale mobile systems."
+      ]
+    },
+    {
+      "company": "Meta Platforms, Inc.",
+      "position": "Software Engineer Intern (AI Systems)",
+      "startDate": "2024-05-01",
+      "endDate": "2024-08-01",
+      "summary": "Integrated Llama 3 into Messenger at scale for US-led AI deployment.",
+      "highlights": [
+        "Designed storage schemas with SQLite and used LangChain for model integration and tuning."
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "Columbia University",
-      "area": "Ph.D in Computer Science",
+      "area": "B.A. in Computer Science",
       "studyType": "",
       "startDate": "",
-      "endDate": "",
+      "endDate": "2025-12-01",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "Applied Machine Learning",
+        "Distributed Systems",
+        "Operations Research"
+      ]
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Applied AI",
+      "keywords": [
+        "Generative AI",
+        "LLM fine-tuning (Llama 3)",
+        "Semantic Segmentation",
+        "Material Informatics"
+      ]
+    },
+    {
+      "name": "Systems & Full-stack",
+      "keywords": [
+        "C++",
+        "Python",
+        "Go",
+        "Java",
+        "Swift",
+        "Kotlin",
+        "PHP",
+        "SQL",
+        "GraphQL",
+        "React",
+        "Node.js",
+        "LangChain"
+      ]
+    },
+    {
+      "name": "Infrastructure",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Apache Hive",
+        "gRPC",
+        "Distributed Systems",
+        "RPC"
+      ]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
@@ -139,20 +208,6 @@
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
       "name": "Omni: A Data Synthesis Platform for LLMs",
       "event": "Data Science Institute, Columbia University",
       "date": "2025-01-01",
@@ -181,29 +236,6 @@
       "description": ""
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "teaching": [],
+  "portfolio": []
 }
