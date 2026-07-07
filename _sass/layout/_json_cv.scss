@@ -139,15 +139,22 @@
 .cv-item-header {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
   gap: 0.75rem;
   margin-bottom: 1rem;
+  align-items: flex-start;
+}
+
+.cv-item-header .cv-item-date {
+  flex-basis: 100%;
+  text-align: right;
 }
 
 .cv-item-title {
   font-weight: 700;
   font-size: 1.1rem;
   line-height: 1.3;
+  flex: 1;
+  min-width: 0;
 }
 
 .cv-item-date {
