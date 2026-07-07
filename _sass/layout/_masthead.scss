@@ -8,6 +8,7 @@
   height: fit-content;
   top: 0;
   width: 100%;
+  box-shadow: 0 20px 35px rgba(0, 0, 0, 0.08);
 
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -27,7 +28,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 0.5em 1em;
+    padding: 1rem 1.25rem;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -45,20 +46,38 @@
 }
 
 .masthead__menu {
-
   ul {
     margin: 0;
     padding: 0;
     clear: both;
-    list-style-type: none;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
   }
 }
 
 .masthead__menu-item {
   background-color: var(--global-bg-color);
-  display: block;
-  list-style-type: none;
+  display: inline-flex;
+  align-items: center;
+  list-style: none;
   white-space: nowrap;
+
+  & a {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.75rem 0.95rem;
+    border-radius: 0.85rem;
+    color: var(--global-text-color);
+    transition: background 0.25s ease, color 0.25s ease;
+  }
+
+  & a:hover {
+    background: var(--global-border-color);
+    color: var(--global-link-color-hover);
+  }
 
   &--lg {
     padding-right: 2em;
@@ -69,13 +88,11 @@
 .masthead__menu-item.selected a {
   color: var(--global-text-color);
   font-weight: 700;
-  border-bottom: 2px solid var(--global-text-color);
-  pointer-events: none; /* Move this here */
-  cursor: default; /* Move this here too */
+  background: var(--global-border-color);
+  pointer-events: none;
+  cursor: default;
 }
 
 .masthead__menu-item.selected a:hover {
   color: var(--global-text-color);
-  border-bottom: 2px solid var(--global-text-color);
-  /* No need to repeat pointer-events and cursor here */
 }
