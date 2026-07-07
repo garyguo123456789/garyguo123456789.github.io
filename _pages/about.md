@@ -16,6 +16,6 @@ My research focuses on practical AI applications: from computer vision for defec
 At Meta, I engineer distributed AI systems serving millions, from integrating LLMs into messaging platforms to building enterprise CRM infrastructure. I also contribute to the AI community through Omni One—a high-performance data synthesis framework—and leadership in global ML standards.
 
 ## Contact
-- Email: hi@example.com (replace with your preferred address)
+- Email: g.haolin@columbia.edu
 - GitHub: [garyguo123456789](https://github.com/garyguo123456789)
-- LinkedIn: [linkedin.com/in/garyguo123456789](https://www.linkedin.com/in/garyguo123456789)
+- LinkedIn: [linkedin.com/in/emery-guo-8a49b9176](https://www.linkedin.com/in/emery-guo-8a49b9176/)
