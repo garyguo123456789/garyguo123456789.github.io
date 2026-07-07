@@ -271,3 +271,9 @@
   color: var(--global-text-color);
   font-weight: 600;
 }
+
+/* Publication title styling in archive lists */
+.list__item:has(.publication-meta) .archive__item-title {
+  font-size: 1rem;
+  font-weight: 700;
+}
