@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Haolin Guo
+## Haolin Guo
 
 I'm a software engineer at Meta Platforms, bridging AI research with scalable industry solutions. Trained in computer science at Columbia University, I develop algorithms that transform complex problems into actionable insights across manufacturing, energy systems, and beyond.
 

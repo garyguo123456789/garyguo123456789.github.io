@@ -3,9 +3,12 @@ layout: archive
 title: "Presentations"
 permalink: /presentations/
 author_profile: true
+hide_title: true
 ---
 
 {% include base_path %}
+
+## Presentations
 
 <div class="archive">
   {% assign cv = site.data.cv %}
