@@ -126,6 +126,9 @@
   padding: 0;
   display: grid;
   gap: 1rem;
+  justify-items: stretch;
+  justify-content: start;
+  text-align: left;
 }
 
 .cv-item {
