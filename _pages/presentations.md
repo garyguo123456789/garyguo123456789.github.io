@@ -8,12 +8,11 @@ hide_title: true
 
 {% include base_path %}
 
-## Presentations
-
 <div class="archive">
   {% assign cv = site.data.cv %}
   {% if cv.presentations.size > 0 %}
   <div class="cv-section">
+    <h2>Presentations</h2>
     <ul class="cv-list">
       {% for talk in cv.presentations %}
       <li class="cv-item">
